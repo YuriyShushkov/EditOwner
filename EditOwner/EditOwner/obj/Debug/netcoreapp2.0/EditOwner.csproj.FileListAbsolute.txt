@@ -1,0 +1,11 @@
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\bin\Debug\netcoreapp2.0\EditOwner.deps.json
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\bin\Debug\netcoreapp2.0\EditOwner.runtimeconfig.json
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\bin\Debug\netcoreapp2.0\EditOwner.runtimeconfig.dev.json
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\bin\Debug\netcoreapp2.0\EditOwner.dll
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.csprojResolveAssemblyReference.cache
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.csproj.CoreCompileInputs.cache
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.AssemblyInfoInputs.cache
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.AssemblyInfo.cs
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\bin\Debug\netcoreapp2.0\EditOwner.pdb
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.dll
+D:\Projects\tests\EditOwner\EditOwner\EditOwner\obj\Debug\netcoreapp2.0\EditOwner.pdb
