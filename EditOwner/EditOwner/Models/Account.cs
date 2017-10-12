@@ -11,10 +11,10 @@ namespace EditOwner.Models
 		[Column(TypeName = "money")]
 		public decimal Ammount { get; set; }
 
-		public int PersonID { get; set; }
+		public int? PersonID { get; set; }
 		public Person Person { get; set; }
 
-		public int LegalEntityID { get; set; }
+		public int? LegalEntityID { get; set; }
 		public LegalEntity LegalEntity { get; set; }
 
 		[NotMapped]
